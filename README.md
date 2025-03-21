@@ -27,7 +27,7 @@ This tutorial shows how to reset a user password in active directory as an admin
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/54BJ7Gg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l8RMnk1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
