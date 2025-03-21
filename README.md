@@ -23,7 +23,7 @@ This tutorial shows how to reset a user password in active directory as an admin
 <img src="https://i.imgur.com/l8RMnk1.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login to the domain controller as an admin and go to Active Directory users.
+Login to the domain controller as an admin and go to the Active Directory users and computers application.
 </p>
 <br />
 
@@ -31,7 +31,7 @@ Login to the domain controller as an admin and go to Active Directory users.
 <img src="https://i.imgur.com/UKPjyt4.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right click the domain, go to find, type in user. 
+Right click the domain, go to find, type in the user who's password you want to reset. 
 </p>
 <br />
 
